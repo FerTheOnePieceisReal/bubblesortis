@@ -1,6 +1,6 @@
 # tests/test_sorter.py
 import unittest
-from src.tparcial.sorter import Sorter # Ajusta el import según tu estructura
+from src.tparcial.sorter import Sorter 
 
 class TestSorter(unittest.TestCase):
     
