@@ -41,7 +41,7 @@ class TestSorter(unittest.TestCase):
         # Assert
         self.assertEqual(resultado_actual, resultado_esperado, "El arreglo desordenado debe ordenarse correctamente")
 
-    # TearDown: Opcional, para limpiar recursos (no es estrictamente necesario aquí)
+    # TearDown
     def tearDown(self):
         pass
 
